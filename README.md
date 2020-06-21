@@ -22,7 +22,7 @@ Não sabe qual filme escolher? Só rodar o programa e assistir um filme aleatór
 
 1. Fork (<https://github.com/sosolidkk/random-movie/fork>)
 2. Crie sua _branch_ com a adição/correção (`git checkout -b meu-codigo`)
-3. Realize um commit de suas alterações (`git commit -am "Adicionada funcionalidade"`)
+3. Realize um commit de suas alterações (`git commit -m "Adicionada funcionalidade"`)
 4. Envia para a _branch_ (`git push origin meu-codigo`)
 5. Crie uma nova _Pull Request_
 
